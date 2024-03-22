@@ -1,0 +1,131 @@
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+
+<div class="titulo">
+  <img class="logo" src="~/img/library-icon.png">
+  <h1> Welcome to Zurani Library</h1>
+</div>
+    
+<div class="container">
+  <div id="carouselBooksLibraries" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="https://darkroom.contagious.com/1380/b69db1ad852a14cc80b6d31f25dfb486:497f152841b028aa3a003b9b5b09a686/alfons-morales-ylswjsy7stw-unsplash.jpg" class="d-block w-100" alt="Libro 1">
+      </div>
+      <div class="carousel-item">
+        <img src="https://www.autoimmuneinstitute.org/wp-content/uploads/2021/02/Resource-Page-Books-banner.png&quot" class="d-block w-100" alt="Libro 2">
+      </div>
+
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselBooksLibraries" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Anterior</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselBooksLibraries" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Siguiente</span>
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="botones">
+  <a asp-controller="Usuarios" asp-action="Index"  class="btn btn-dark p-3" >Gestion de Usuarios</a>
+  <a asp-controller="Libros" asp-action="Index" class="btn btn-dark p-3">Gestion de Libros</a>
+  <a asp-controller="Prestamos" asp-action="Index" class="btn btn-dark p-3">Gestion de Prestamos</a>
+</div>
+
+<div class="container">
+  <h2 class="mt-5 mb-3 text-center">Libros</h2>
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    <!-- Card 1 -->
+    <div class="col">
+      <div class="card h-100">
+        <img src="https://images.epublibre.org/libros/6481.jpg" class="card-img-top" alt="Libro 1">
+        <div class="card-body">
+          <h5 class="card-title">En la corte de Ronnie</h5>
+          <p class="card-text">Autor: John le Carré</p>
+          <p class="card-text">Ronnie Cornwell era el más descarado timador con que uno podía encontrarse en la Gran Bretaña de posguerra. Elegante y desenvuelto, brillante y temerario, no parecía haber nadie más digno de confianza. Lo cierto, sin embargo, era que a causa de sus continuos fracasos y enormes deudas había terminado en prisión más de una vez, aunque hasta el último día de su vida pareciera, a todas luces, un hombre respetable.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="col">
+      <div class="card h-100">
+        <img src="https://images.epublibre.org/libros/1689.jpg" class="card-img-top" alt="Libro 2">
+        <div class="card-body">
+          <h5 class="card-title">Juego de tronos</h5>
+          <p class="card-text">Autor: George R. R. Martin</p>
+          <p class="card-text">Tras el largo verano, el invierno se acerca a los Siete Reinos. Lord Eddard Stark, señor de Invernalia, deja sus dominios para unirse a la corte del rey Robert Baratheon el Usurpador, hombre díscolo y otrora guerrero audaz cuyas mayores aficiones son comer, beber y engendrar bastardos. Eddard Stark desempeñará el cargo de mano del rey e intentará desentrañar una maraña de intrigas que pondrá en peligro su vida… y la de los suyos.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="col">
+      <div class="card h-100">
+        <img src="https://images.epublibre.org/libros/1828.jpg" class="card-img-top" alt="Libro 3">
+        <div class="card-body">
+          <h5 class="card-title">El nombre del viento</h5>
+          <p class="card-text">Autor: Patrick Rothfuss</p>
+          <p class="card-text">En una posada en tierra de nadie, un hombre se dispone a relatar, por primera vez, la auténtica historia de su vida. Una historia que únicamente él conoce y que ha quedado diluida tras los rumores, las conjeturas y los cuentos de taberna que le han convertido en un personaje legendario a quien todos daban ya por muerto: Kvothe… músico, mendigo, ladrón, estudiante, mago, héroe y asesino.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+
+  <div class="row row-cols-1 row-cols-md-3 g-4 mt-5">
+    <!-- Card 1 -->
+    <div class="col">
+      <div class="card h-100">
+        <img src="https://images.epublibre.org/libros/1379.jpg" class="card-img-top" alt="Libro 1">
+        <div class="card-body">
+          <h5 class="card-title">Harry Potter y la piedra filosofal </h5>
+          <p class="card-text">Autor: J. K. Rowling</p>
+          <p class="card-text">Harry Potter se ha quedado huérfano y vive en casa de sus abominables tíos y del insoportable primo Dudley. Harry se siente muy triste y solo, hasta que un buen día recibe una carta que cambiará su vida para siempre. En ella le comunican que ha sido aceptado como alumno en el colegio interno Hogwarts de magia y hechicería.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="col">
+      <div class="card h-100">
+        <img src="https://images.epublibre.org/libros/1381.jpg" class="card-img-top" alt="Libro 2">
+        <div class="card-body">
+          <h5 class="card-title">Los juegos del hambre</h5>
+          <p class="card-text">Autor: Suzanne Collins</p>
+          <p class="card-text">GANAR SIGNIFICA FAMA Y RIQUEZA. PERDER SIGNIFICA UNA MUERTE SEGURA. En una oscura versión del futuro próximo, doce chicos y doce chicas se ven obligados a participar en un reality show llamado Los juegos del hambre. Solo hay una regla: matar o morir. Cuando Katniss Everdeen, una joven de dieciséis años se presenta voluntaria para ocupar el lugar de su hermana en los juegos, lo entiende como una condena a muerte. Sin embargo Katniss ya ha visto la muerte de cerca y la supervivencia forma parte de su naturaleza. ¡Que empiecen los septuagésimo cuartos juegos del hambre!</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="col">
+      <div class="card h-100">
+        <img src="https://images.epublibre.org/libros/3751.jpg" class="card-img-top" alt="Libro 3">
+        <div class="card-body">
+          <h5 class="card-title">A tres metros sobre el cielo</h5>
+          <p class="card-text">Autor: Federico Moccia</p>
+          <p class="card-text">En Roma, como en cualquier otra ciudad del mundo, los adolescentes quieren volar, buscan caminar «tres metros sobre el cielo». Las chicas como Babi se esmeran en sus estudios, hablan del último grito en moda y se preparan para encontrar al amor de sus vidas; los chicos como Step prefieren la velocidad, la violencia, el riesgo y la camaradería de las bandas, pero todos ellos se implican en la vida como si cada segundo fuera el último.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+    
+
+</body>
+</html>

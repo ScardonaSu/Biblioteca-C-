@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Biblioteca
+build_property.RootNamespace = Biblioteca
+build_property.ProjectDir = /Users/santiagocardona/Documents/Riwi/C#DotNet/Biblioteca/Biblioteca/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/santiagocardona/Documents/Riwi/C#DotNet/Biblioteca/Biblioteca
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGFzaGJvYXJkL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Libros/Actualizar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicm9zL0FjdHVhbGl6YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Libros/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGlicm9zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Multas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXVsdGFzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Prestamos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJlc3RhbW9zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Usuarios/Actualizar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvQWN0dWFsaXphci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Usuarios/Borrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvQm9ycmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Usuarios/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvQ3JlYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Usuarios/Detalles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvRGV0YWxsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Usuarios/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Usuarios/Registrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvUmVnaXN0cmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Usuarios/ReservarLibros.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvUmVzZXJ2YXJMaWJyb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/santiagocardona/Documents/Riwi/C\#DotNet/Biblioteca/Biblioteca/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-l8gc6defxz
