@@ -19,7 +19,7 @@ html {
 
 body {
   margin-bottom: 60px;
-  background: #333333;
+  background: #04361d;
   color: #fff;
 }
 
@@ -44,10 +44,15 @@ h1{
 .botones{
   display: flex;
   justify-content: center;
+  padding: 1.5rem;
   
   a{
     margin: 1.5rem;
   }
+}
+
+.masLeidos{
+  padding: 1.5rem;
 }
 
 p{
@@ -63,7 +68,10 @@ p{
   
   img {
     width: 50px;
-    
-    
   }
 }
+
+
+  
+  
+  

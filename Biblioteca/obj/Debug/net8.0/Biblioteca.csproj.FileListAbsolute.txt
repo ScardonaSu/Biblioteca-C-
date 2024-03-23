@@ -28,3 +28,4 @@
 /Users/santiagocardona/Documents/Riwi/C#DotNet/Biblioteca/Biblioteca/obj/Debug/net8.0/Biblioteca.pdb
 /Users/santiagocardona/Documents/Riwi/C#DotNet/Biblioteca/Biblioteca/obj/Debug/net8.0/Biblioteca.genruntimeconfig.cache
 /Users/santiagocardona/Documents/Riwi/C#DotNet/Biblioteca/Biblioteca/obj/Debug/net8.0/ref/Biblioteca.dll
+/Users/santiagocardona/Documents/Riwi/C#DotNet/Biblioteca/Biblioteca/obj/Debug/net8.0/Biblioteca.sourcelink.json
