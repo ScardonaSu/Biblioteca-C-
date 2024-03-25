@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/santiagocardona/Documents/Riwi/C#DotNet/Biblioteca/Biblioteca/Biblioteca.csproj": {}
+    "C:\\Users\\ZURANI\\Documents\\Biblioteca-C-\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "/Users/santiagocardona/Documents/Riwi/C#DotNet/Biblioteca/Biblioteca/Biblioteca.csproj": {
+    "C:\\Users\\ZURANI\\Documents\\Biblioteca-C-\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/santiagocardona/Documents/Riwi/C#DotNet/Biblioteca/Biblioteca/Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\ZURANI\\Documents\\Biblioteca-C-\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "/Users/santiagocardona/Documents/Riwi/C#DotNet/Biblioteca/Biblioteca/Biblioteca.csproj",
-        "packagesPath": "/Users/santiagocardona/.nuget/packages/",
-        "outputPath": "/Users/santiagocardona/Documents/Riwi/C#DotNet/Biblioteca/Biblioteca/obj/",
+        "projectPath": "C:\\Users\\ZURANI\\Documents\\Biblioteca-C-\\Biblioteca\\Biblioteca.csproj",
+        "packagesPath": "C:\\Users\\ZURANI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZURANI\\Documents\\Biblioteca-C-\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/santiagocardona/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ZURANI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
